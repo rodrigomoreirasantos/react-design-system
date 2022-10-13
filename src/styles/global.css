@@ -1,0 +1,4 @@
+/* Importar as bibliotecas que o tailwind consome */
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
